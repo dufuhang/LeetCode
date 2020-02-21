@@ -7,19 +7,19 @@
 
 若有任何错误，欢迎PR😘
 
-|  #   |                            Title                             | Difficulty |
-| :--: | :----------------------------------------------------------: | :--------: |
-|  1   | [Two Sum](https://github.com/dufuhang/LeetCode/blob/master/Array/TwoSum_1.cpp) |            |
-|  26  | [Remove Duplicates from Sorted Array](https://github.com/dufuhang/LeetCode/blob/master/Array/RemoveDuplicatesfromSortedArray_26.cpp) |            |
-|  53  |                 [TwoSum_1.cpp](TwoSum_1.cpp)                 |            |
-|  66  |                             []()                             |            |
-|  88  |                             []()                             |            |
-| 118  |                             []()                             |            |
-| 121  | [Best Time to Buy and Sell Stock](https://github.com/dufuhang/LeetCode/blob/master/Array/BestTimetoBuyandSellStock_121.cpp) |            |
-| 122  | [Best Time to Buy and Sell Stock II](https://github.com/dufuhang/LeetCode/blob/master/Array/BestTimetoBuyandSellStock%20II_122.cpp) |            |
-| 169  |                             []()                             |            |
-| 189  |                             []()                             |            |
-| 217  |                             []()                             |            |
-| 268  |                             []()                             |            |
-| 283  |                             []()                             |            |
+|  #   |            Title             | Difficulty |
+| :--: | :--------------------------: | :--------: |
+|  1   | [1-TwoSum.cpp](1-TwoSum.cpp) |            |
+|  26  |                              |            |
+|  53  |                              |            |
+|  66  |             []()             |            |
+|  88  |             []()             |            |
+| 118  |             []()             |            |
+| 121  |                              |            |
+| 122  |                              |            |
+| 169  |             []()             |            |
+| 189  |             []()             |            |
+| 217  |             []()             |            |
+| 268  |             []()             |            |
+| 283  |             []()             |            |
 
