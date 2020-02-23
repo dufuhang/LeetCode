@@ -1,9 +1,11 @@
 # LeetCode
 目前按组，从easy开始刷题😗
 
-因为是为了找工作，所以目前可能只会有`Top interview questions`的题目😌
+因为是为了找工作，所以目前可能主要是`Top interview questions`的题目😌
 
 目前解法不保证最优，后续会逐渐优化☹️
+
+带有👻标记的为还有其他重要做法，待补充😑
 
 若有任何错误，欢迎PR😘
 
@@ -27,4 +29,5 @@
 | 238 |       [Product of Array Except Self](/Array/238-ProductofArrayExceptSelf.cpp)        |   Medium   | Array |
 | 268 |                    [Missing Number](/Array/268-MissingNumber.cpp)                    |    Easy    | Array |
 | 283 |                       [Move Zeroes](/Array/283-MoveZeroes.cpp)                       |    Easy    | Array |
+
 
