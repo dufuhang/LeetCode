@@ -16,6 +16,7 @@
 | 26  | [Remove Duplicates from Sorted Array](/Array/26-RemoveDuplicatesfromSortedArray.cpp) |    Easy    | Array |
 | 53  |                  [Maximum Subarray](/Array/53-MaximumSubarray.cpp)                   |    Easy    | Array |
 | 66  |                          [Plus One](/Array/66-PlusOne.cpp)                           |    Easy    | Array |
+| 78  |                          [Subsets👻](/Array/78-Subsets.cpp)                          |   Medium   | Array |
 | 88  |                 [Merge Sorted Array](/Array/88-MergeSortedArray.cpp)                 |    Easy    | Array |
 | 118 |                 [Pascal's Triangle](/Array/118-Pascal'sTriangle.cpp)                 |    Easy    | Array |
 | 121 |      [Best Time to Buy and SellStock](/Array/121-BestTimetoBuyandSellStock.cpp)      |    Easy    | Array |
