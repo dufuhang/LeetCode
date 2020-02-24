@@ -10,12 +10,12 @@
 若有任何错误，欢迎PR😘
 
 
-
 |  #  |                                        Title                                         | Difficulty | Tags  |
 | :-: | :----------------------------------------------------------------------------------: | :--------: | :---: |
 |  1  |                            [Two Sum](/Array/1-TwoSum.cpp)                            |    Easy    | Array |
 | 11  |            [Container With Most Water](/Array/11-ContainerWithMostWater)             |   Medium   | Array |
 | 26  | [Remove Duplicates from Sorted Array](/Array/26-RemoveDuplicatesfromSortedArray.cpp) |    Easy    | Array |
+| 48  |                  [Rotate Image](/Array/48-RotateImage.cpp)                           |    Medium  | Array |
 | 53  |                  [Maximum Subarray](/Array/53-MaximumSubarray.cpp)                   |    Easy    | Array |
 | 66  |                          [Plus One](/Array/66-PlusOne.cpp)                           |    Easy    | Array |
 | 78  |                          [Subsets👻](/Array/78-Subsets.cpp)                          |   Medium   | Array |
