@@ -9,6 +9,7 @@
 
 若有任何错误，欢迎PR😘
 
+**家里网太慢，先做剑指offer了**
 
 |  #  |                                        Title                                         | Difficulty | Tags  |
 | :-: | :----------------------------------------------------------------------------------: | :--------: | :---: |
@@ -30,5 +31,6 @@
 | 66  |                          [Plus One](/Array/66-PlusOne.cpp)                           |    Easy    | Array |
 | 78  |                          [Subsets👻](/Array/78-Subsets.cpp)                          |   Medium   | Array |
 | 88  |                 [Merge Sorted Array](/Array/88-MergeSortedArray.cpp)                 |    Easy    | Array |
+| 287 |                 [Find the Duplicated Numbers](/Array/287-FindtheDuplicatedNumbers.cpp)|    Medium    | Array |
 
 
