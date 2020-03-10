@@ -37,3 +37,4 @@
 | 面试题57-II |     [和为s的连续正数序列](每日一题(leetcode-cn)/面试题57-II-和为s的连续正数序列.md)     |    Easy    |    Sliding Window    |
 | 面试题59-II |            [队列的最大值](每日一题(leetcode-cn)/面试题59-II-队列的最大值.md)            |   Medium   | Stack/Sliding Window |
 |     322     |                 [Coin Change](每日一题(leetcode-cn)/322-CoinChange.md)                  |   Medium   |          DP          |
+|     543     |      [Diameter of Binary Tree](每日一题(leetcode-cn)/543-DiameterofBinaryTree.md)       |    Easy    |         DFS          |
