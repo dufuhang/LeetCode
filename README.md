@@ -12,6 +12,8 @@
 |:-----------:|:-------------------------------------------------------------------------------------------------------------------------:|:----------:|:--------------------:|
 |      1      |                                              [Two Sum](/Array/1-TwoSum.cpp)                                               |    Easy    |        Array         |
 |    10.01    |                            [Sorted Merge LCCI](每日一题(leetcode-cn)/10.01-SortedMergeLCCI.md)                            |    Easy    |  Array,Two Pointers  |
+|    1013     | [Partition Array Into Three Parts With Equal Sum](每日一题(leetcode-cn)/1013-PartitionArrayIntoThreePartsWithEqualSum.md) |    Easy    |        Array         |
+|    1071     |            [Greatest Common Divisor of Strings](每日一题(leetcode-cn)/1071-GreatestCommonDivisorofStrings.md)             |    Easy    |        String        |
 |     11      |                               [Container With Most Water](/Array/11-ContainerWithMostWater)                               |   Medium   |        Array         |
 |    1103     |                  [Distribute Candies to People](每日一题(leetcode-cn)/1103-DistributeCandiesToPeople.md)                  |    Easy    |         Math         |
 |     118     |                                   [Pascal's Triangle](/Array/118-Pascal'sTriangle.cpp)                                    |    Easy    |        Array         |
@@ -28,14 +30,13 @@
 |     268     |                                      [Missing Number](/Array/268-MissingNumber.cpp)                                       |    Easy    |        Array         |
 |     283     |                                         [Move Zeroes](/Array/283-MoveZeroes.cpp)                                          |    Easy    |        Array         |
 |     287     |                           [Find the Duplicated Numbers](/Array/287-FindtheDuplicateNumbers.cpp)                           |   Medium   |        Array         |
+|     322     |                                  [Coin Change](每日一题(leetcode-cn)/322-CoinChange.md)                                   |   Medium   |          DP          |
 |     48      |                                         [Rotate Image](/Array/48-RotateImage.cpp)                                         |   Medium   |        Array         |
 |     53      |                                     [Maximum Subarray](/Array/53-MaximumSubarray.cpp)                                     |    Easy    |        Array         |
+|     543     |                       [Diameter of Binary Tree](每日一题(leetcode-cn)/543-DiameterofBinaryTree.md)                        |    Easy    |         DFS          |
 |     66      |                                             [Plus One](/Array/66-PlusOne.cpp)                                             |    Easy    |        Array         |
 |     78      |                                            [Subsets👻](/Array/78-Subsets.cpp)                                             |   Medium   |        Array         |
 |     88      |                                   [Merge Sorted Array](/Array/88-MergeSortedArray.cpp)                                    |    Easy    |        Array         |
 |     994     |                              [Rotting Oranges](/每日一题(leetcode-cn)/994-RottingOranges.md)                              |    Easy    |         BFS          |
 | 面试题57-II |                      [和为s的连续正数序列](每日一题(leetcode-cn)/面试题57-II-和为s的连续正数序列.md)                      |    Easy    |    Sliding Window    |
 | 面试题59-II |                             [队列的最大值](每日一题(leetcode-cn)/面试题59-II-队列的最大值.md)                             |   Medium   | Stack/Sliding Window |
-|     322     |                                  [Coin Change](每日一题(leetcode-cn)/322-CoinChange.md)                                   |   Medium   |          DP          |
-|     543     |                       [Diameter of Binary Tree](每日一题(leetcode-cn)/543-DiameterofBinaryTree.md)                        |    Easy    |         DFS          |
-|    1013     | [Partition Array Into Three Parts With Equal Sum](每日一题(leetcode-cn)/1013-PartitionArrayIntoThreePartsWithEqualSum.md) |    Easy    |        Array         |
