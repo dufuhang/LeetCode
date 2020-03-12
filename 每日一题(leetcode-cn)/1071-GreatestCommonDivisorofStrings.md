@@ -16,3 +16,10 @@ public:
     }
 };
 ```
+给出求最大公约数的算法：使用辗转相除法
+```cpp
+int gcd(int a, int b)
+{
+    return a % b == 0 ? b : gcd(b, a % b);
+}
+```
