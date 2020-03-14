@@ -41,3 +41,4 @@
 | 面试题57-II |                      [和为s的连续正数序列](每日一题(leetcode-cn)/面试题57-II-和为s的连续正数序列.md)                      |    Easy    |    Sliding Window    |
 | 面试题59-II |                             [队列的最大值](每日一题(leetcode-cn)/面试题59-II-队列的最大值.md)                             |   Medium   | Stack/Sliding Window |
 |     169     |                             [Majority Element](每日一题(leetcode-cn)/169-MajorityElement.md)                              |    Easy    |        Array         |
+|     300     |                [Longest Increasing Subsequence](每日一题(leetcode-cn)/300-LongestIncreasingSubsequence.md)                |   Medium   |          DP          |
