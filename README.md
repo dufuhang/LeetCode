@@ -43,3 +43,4 @@
 |     169     |                             [Majority Element](每日一题(leetcode-cn)/169-MajorityElement.md)                              |    Easy    |        Array         |
 |     300     |                [Longest Increasing Subsequence](每日一题(leetcode-cn)/300-LongestIncreasingSubsequence.md)                |   Medium   |          DP          |
 |     695     |                            [Max Area of Island](每日一题(leetcode-cn)/695-MaxAreaofIsland.md)                             |   Medium   |         DFS          |
+| 面试题01.06 |                      [Compress String LCCI](每日一题(leetcode-cn)/面试题01.06-CompressStringLCCI.md)                      |    Easy    | Two POinters/String  |
