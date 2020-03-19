@@ -1,16 +1,18 @@
-class Solution {
+class Solution 
+{
 public:
-    vector<int> twoSum(vector<int>& nums, int target) 
+    vector<int> twoSum(vector<int>& nums, int target)
     {
-        map<int,int> mp;
+        //哈希
+        if (nums.size() == 0) return {};
+        unordered_map<int, int> mp;
         for (int i = 0; i < nums.size(); i++)
         {
-            auto it = mp.find(target - nums[i]);
-            if (it != mp.end())
+            if (mp.find(target - nums[i]) != mp.end())
             {
-                return {it->second, i};
+                return {i, mp[target - nums[i]]};
             }
-            mp.insert(make_pair(nums[i], i));
+            mp[nums[i]] = i;
         }
         return {};
     }
