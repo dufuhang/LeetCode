@@ -49,3 +49,4 @@
 |     409     |                           [Longest Palindrome](每日一题(leetcode-cn)/409-LongestPalindrome.md)                            |    Easy    |       Hash Table        |
 |  面试题40   |                               [最小的k个数](每日一题(leetcode-cn)/面试题40-最小的k个数.md)                                |    Easy    | Heap/Divide and Conquer |
 |     365     |                         [Water and Jug Problem](每日一题(leetcode-cn)/365-WaterandJugProblem.md)                          |   Medium   |        Math/BFS         |
+|     945     |         [Minimum Increment to Make Array Unique](每日一题(leetcode-cn)/945-MinimumIncrementtoMakeArrayUnique.md)          |   Medium   |       Array/Hash        |
