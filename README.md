@@ -50,3 +50,4 @@
 |  面试题40   |                               [最小的k个数](每日一题(leetcode-cn)/面试题40-最小的k个数.md)                                |    Easy    | Heap/Divide and Conquer |
 |     365     |                         [Water and Jug Problem](每日一题(leetcode-cn)/365-WaterandJugProblem.md)                          |   Medium   |        Math/BFS         |
 |     945     |         [Minimum Increment to Make Array Unique](每日一题(leetcode-cn)/945-MinimumIncrementtoMakeArrayUnique.md)          |   Medium   |       Array/Hash        |
+|     876     |                      [Middle of the Linked List](每日一题(leetcode-cn)/876-MiddleoftheLinkedList.md)                      |    Easy    | Link List/Two Pointers  |
