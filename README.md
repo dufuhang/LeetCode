@@ -38,7 +38,7 @@ M为LC中文版中”面试题“的意思。
 | 543    |                       [Diameter of Binary Tree](543-DiameterofBinaryTree.md)                        |    Easy    |           DFS           |
 | 66     |                                     [Plus One](66-PlusOne.cpp)                                      |    Easy    |          Array          |
 | 695    |                            [Max Area of Island](695-MaxAreaofIsland.md)                             |   Medium   |           DFS           |
-| 78     |                                     [Subsets](78-Subsets.cpp)                                     |   Medium   |          Array          |
+| 78     |                                      [Subsets](78-Subsets.cpp)                                      |   Medium   |          Array          |
 | 836    |                            [Rectangle Overlap](836-RectangleOverlap.md)                             |    Easy    |          Math           |
 | 876    |                      [Middle of the Linked List](876-MiddleoftheLinkedList.md)                      |    Easy    | Link List/Two Pointers  |
 | 88     |                            [Merge Sorted Array](88-MergeSortedArray.cpp)                            |    Easy    |          Array          |
@@ -49,3 +49,4 @@ M为LC中文版中”面试题“的意思。
 | M40    |                                  [最小的k个数](M40-最小的k个数.md)                                  |    Easy    | Heap/Divide and Conquer |
 | M57-II |                        [和为s的连续正数序列](M57-II-和为s的连续正数序列.md)                         |    Easy    |     Sliding Window      |
 | M59-II |                               [队列的最大值](M59-II-队列的最大值.md)                                |   Medium   |  Stack/Sliding Window   |
+| 892    |                      [Surface Area of 3D Shapes](892-SurfaceAreaof3DShapes.md)                      |    Easy    |      Math/Geometry      |
