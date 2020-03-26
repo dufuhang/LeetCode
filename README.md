@@ -48,6 +48,7 @@ M为LC中文版中”面试题“的意思。
 |  892   |                      [Surface Area of 3D Shapes](892-SurfaceAreaof3DShapes.md)                      |    Easy    |      Math/Geometry      |
 |  945   |         [Minimum Increment to Make Array Unique](945-MinimumIncrementtoMakeArrayUnique.md)          |   Medium   |       Array/Hash        |
 |  994   |                              [Rotting Oranges](994-RottingOranges.md)                               |    Easy    |           BFS           |
+|  999   |                   [Available Captures for Rook](999-AvailableCapturesforRook.md)                    |    Easy    |          Array          |
 | M01.06 |                        [Compress String LCCI](M01.06-CompressStringLCCI.md)                         |    Easy    |   Two POinters/String   |
 | M17.16 |                                     [按摩师](M17.16-按摩师.md)                                      |    Easy    |           DP            |
 |  M40   |                                  [最小的k个数](M40-最小的k个数.md)                                  |    Easy    | Heap/Divide and Conquer |
