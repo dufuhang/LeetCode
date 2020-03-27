@@ -46,6 +46,7 @@ M为LC中文版中”面试题“的意思。
 |  876   |                      [Middle of the Linked List](876-MiddleoftheLinkedList.md)                      |    Easy    | Link List/Two Pointers  |
 |   88   |                            [Merge Sorted Array](88-MergeSortedArray.cpp)                            |    Easy    |          Array          |
 |  892   |                      [Surface Area of 3D Shapes](892-SurfaceAreaof3DShapes.md)                      |    Easy    |      Math/Geometry      |
+|  914   |                   [X of a Kind in a Deck of Cards](914-XofaKindinaDeckofCards.md)                   |    Easy    |          Math           |
 |  945   |         [Minimum Increment to Make Array Unique](945-MinimumIncrementtoMakeArrayUnique.md)          |   Medium   |       Array/Hash        |
 |  994   |                              [Rotting Oranges](994-RottingOranges.md)                               |    Easy    |           BFS           |
 |  999   |                   [Available Captures for Rook](999-AvailableCapturesforRook.md)                    |    Easy    |          Array          |
