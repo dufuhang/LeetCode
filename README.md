@@ -23,6 +23,7 @@ M为LC中文版中”面试题“的意思。
 |  189   |                                 [Rotate Array](189-RotateArray.cpp)                                 |    Easy    |          Array          |
 |  198   |                                 [House Robber](198-HouseRobber.md)                                  |    Easy    |           DP            |
 |  206   |                           [Reverse Linked List](206-ReverseLinkedList.md)                           |    Easy    |       Linked List       |
+|  208   |                 [Implemention Trie(Prefix Tree)](208-ImplementTrie(PrefixTree).md)                  |   Medium   |          Trie           |
 |  217   |                           [Contains Duplicate](217-ContainsDuplicate.cpp)                           |    Easy    |          Array          |
 |  225   |                  [Implement Stack Using Queues](225-ImplementStackUsingQueues.md)                   |    Easy    |          Stack          |
 |  238   |                  [Product of Array Except Self](238-ProductofArrayExceptSelf.cpp)                   |   Medium   |          Array          |
@@ -42,6 +43,7 @@ M为LC中文版中”面试题“的意思。
 |   66   |                                     [Plus One](66-PlusOne.cpp)                                      |    Easy    |          Array          |
 |  695   |                            [Max Area of Island](695-MaxAreaofIsland.md)                             |   Medium   |           DFS           |
 |   78   |                                      [Subsets](78-Subsets.cpp)                                      |   Medium   |          Array          |
+|  820   |                       [Short Encoding of Words](820-ShortEncodingofWords.md)                        |   Medium   |      Trie/Sorting       |
 |  836   |                            [Rectangle Overlap](836-RectangleOverlap.md)                             |    Easy    |          Math           |
 |  876   |                      [Middle of the Linked List](876-MiddleoftheLinkedList.md)                      |    Easy    | Link List/Two Pointers  |
 |   88   |                            [Merge Sorted Array](88-MergeSortedArray.cpp)                            |    Easy    |          Array          |
