@@ -1,3 +1,4 @@
+```cpp
 class Solution 
 {
 public:
@@ -26,3 +27,4 @@ public:
         return vec;
     }
 };
+```

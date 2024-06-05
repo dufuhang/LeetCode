@@ -1,3 +1,4 @@
+```cpp
 //[a1    ,a2    ,a3    ,a4    ]
 
 //[a2a3a4,a1a3a4,a1a2a4,a1a2a3]
@@ -34,3 +35,4 @@ public:
         return res;
     }
 };
+```

@@ -1,3 +1,4 @@
+```cpp
 class Solution 
 {
 public:
@@ -11,3 +12,4 @@ public:
         nums.insert(nums.begin(), vec.begin(), vec.end());
     }
 };
+```

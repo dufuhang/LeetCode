@@ -1,4 +1,5 @@
-//迭代法
+- 迭代法
+```cpp
 class Solution 
 {
 public:
@@ -19,4 +20,7 @@ public:
         return vec;
     }
 };
-//DFS待补充
+```
+- DFS
+
+待补充

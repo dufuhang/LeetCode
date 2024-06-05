@@ -1,3 +1,4 @@
+```cpp
 class Solution 
 {
 public:
@@ -22,3 +23,4 @@ public:
         return digits;
     }
 };
+```

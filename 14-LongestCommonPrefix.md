@@ -1,4 +1,4 @@
-```cpp
+```cpp {.line-numbers}
 //双指针遍历
 class Solution 
 {

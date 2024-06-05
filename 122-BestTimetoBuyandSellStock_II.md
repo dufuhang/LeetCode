@@ -1,3 +1,4 @@
+```cpp
 class Solution 
 {
 public:
@@ -17,3 +18,4 @@ public:
         return profit;
     }
 };
+```

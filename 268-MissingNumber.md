@@ -1,3 +1,4 @@
+```cpp
 class Solution 
 {
 public:
@@ -14,3 +15,4 @@ public:
         return (int)nums.size();
     }
 };
+```

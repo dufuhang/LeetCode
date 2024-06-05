@@ -1,3 +1,4 @@
+```cpp
 class Solution 
 {
 public:
@@ -29,3 +30,4 @@ public:
         }
     }
 };
+```

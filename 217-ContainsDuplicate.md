@@ -1,3 +1,4 @@
+```cpp
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) 
@@ -13,3 +14,4 @@ static int speedup=[]()
     cin.tie(0);
     return 0;
 }();
+```
