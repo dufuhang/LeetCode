@@ -1,3 +1,4 @@
+```py
 '''
 本题考察二维矩阵，列表中每个位置的元素值代表在网格对应x,y坐标位上的方块数量
 俯视图为列表中元素值大于0的元素总数
@@ -19,3 +20,4 @@ class Solution:
         xz = sum(map(max,zip(*grid)))
         total = xy + yz + xz
         return total
+```

@@ -1,3 +1,4 @@
+```py
 '''
 仍然使用了zip()函数，将矩阵转置即可
 '''
@@ -8,3 +9,4 @@ class Solution:
         :rtype: List[List[int]]
         """
         return list(zip(*A))
+```

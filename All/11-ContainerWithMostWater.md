@@ -9,3 +9,22 @@
 > 如何证明此解法是正确的，最后能够得到最优解。
 ### 证明
 > 以下证明来自[Krahets](https://leetcode-cn.com/u/jyd/)的[双指针法证明](https://leetcode-cn.com/problems/container-with-most-water/solution/container-with-most-water-shuang-zhi-zhen-fa-yi-do/)
+
+```cpp
+class Solution {
+public:
+    int maxArea(vector<int>& height) 
+    {
+        int i = 0;
+        int j = height.size()-1;
+        int Smax = 0;
+        while (i < j)
+        {
+            Smax = height[i] < height[j] ? 
+            max(Smax,(j - i) * height[i++]) : 
+            max(Smax,(j - i) * height[j--]);
+        }
+        return Smax;
+    }
+};
+```

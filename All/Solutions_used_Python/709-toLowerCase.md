@@ -1,3 +1,4 @@
+```py
 # class Solution:
 #     def toLowerCase(self, str):
 #         return str.lower()
@@ -15,3 +16,4 @@ class Solution:
                 continue
         #join()函数将序列转换为字符串
         return ''.join(result)
+```

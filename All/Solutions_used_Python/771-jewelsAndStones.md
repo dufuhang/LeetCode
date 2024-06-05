@@ -1,3 +1,4 @@
+```py
 class Solution:
     def numJewelsInStones(self, J, S):
         """
@@ -14,4 +15,4 @@ class Solution:
 '''
 使用set剔除重复的字符，避免重复计算导致错误
 '''
-                
+```      

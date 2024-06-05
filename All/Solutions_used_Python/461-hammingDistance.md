@@ -1,3 +1,4 @@
+```py
 '''
 汉明距离，指两个等长字符相同位置的不同字符的个数，是信息论里的概念。
 例：
@@ -16,3 +17,4 @@ sub为要搜索的子字符串，start为开始搜索的位置，默认为0，en
 class Solution:
     def hammingDistance(self, x, y):
         return bin(x ^ y).count('1')
+```

@@ -1,3 +1,4 @@
+```py
 '''
 只要判断字符中相反的路径，比如R和L，U和D的出现次数是否相等即可
 '''
@@ -11,3 +12,4 @@ class Solution:
             return True
         else:
             return False
+```

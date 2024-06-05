@@ -1,3 +1,4 @@
+```py
 '''
 set()创建一个无序不重复的元素集，可进行关系测试，删除重复数据，还可以计算
 交集，差集，并集等
@@ -15,5 +16,4 @@ class Solution:
                 temp.append(d[ord(i) - 97])
             transformations.append(''.join(temp))
         return len(set(transformations))
-            
-            
+```    

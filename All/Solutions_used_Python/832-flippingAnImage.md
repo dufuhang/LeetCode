@@ -1,3 +1,4 @@
+```py
 '''
 flip即将矩阵的每一行水平翻转，即倒序输出
 invert将0改为1，1改为0.可以用异或^运算符
@@ -21,3 +22,4 @@ class Solution:
                     temp.append(i)
             C.append(temp)
         return C
+```
